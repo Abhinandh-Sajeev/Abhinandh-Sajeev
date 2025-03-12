@@ -14,5 +14,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandh-sajeev&show_icons=true&locale=en" alt="abhinandh-sajeev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinandh-sajeev&" alt="abhinandh-sajeev" /></p>
+
 
